@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! My name is Babere and I'm a developer, from Tanzania.</h3>
+<h3 align="center">Hi 👋! My name is Babere and I'm a developer, from Tanzania. I try to solve everyday problems through codes</h3>
 
 ###
 
