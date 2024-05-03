@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! My name is Babere and I'm a developer, from Tanzania. I try to solve everyday problems through codes.</h3>
+<h3 align="center">Hey there! I'm Babere, a budding software engineer hailing from Tanzania, driven by a passion for innovation and making a meaningful difference through technology. Excited to see where this journey takes me!</h3>
 
 ###
 
