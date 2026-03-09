@@ -25,9 +25,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/baberre11/count.svg?"  />
-</div>
 
 ###
 
