@@ -1,4 +1,4 @@
-<h3 align="center">Hey there! I'm Babere, excited to see where this journey takes me!</h3>
+<h3 align="center">I'm Babere, let's see where this journey takes me :) </h3>
 
 ###
 
