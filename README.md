@@ -22,7 +22,9 @@
   <img width="26" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="65" alt="react logo" />
   <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="65" alt="flutter logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="65" alt="tailwind logo" />
+   <img width="26" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="65" alt="flutter logo" />
   <img width="26" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="65" alt="postgresql logo" />
   <img width="26" />
@@ -32,7 +34,6 @@
   <img width="26" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="65" alt="linux logo" />
   <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="65" alt="nginx logo" />
   <img width="26" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="65" alt="git logo" />
 </div>
