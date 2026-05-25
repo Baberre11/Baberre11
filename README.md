@@ -8,7 +8,7 @@
 ![Frontend Technologies](https://skillicons.dev/icons?i=html,css,tailwind,htmx)
 
 #### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=django,aws,gcp,docker,fastapi&perline=3)](https://skillicons.dev)
+[![Backend Technologies](https://skillicons.dev/icons?i=django,aws,gcp,docker,fastapi)](https://skillicons.dev)
 
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,supabase,sqlite)
