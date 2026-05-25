@@ -14,4 +14,4 @@
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,supabase,sqlite)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,linux,github,markdown,vercel,vscode,githubactions,redis,wordpress)
+![Others](https://skillicons.dev/icons?i=git,linux,markdown,vercel,githubactions,redis,wordpress)
