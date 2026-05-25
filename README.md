@@ -1,4 +1,4 @@
-<p>I'm Babere,  I work on a ton of random projects in my free time. let's see where this journey takes me :) </p>
+<p>I’m Babere, <br> processing the friction of some of my ideas/thoughts in here :) </p>
 ## Skills
 
 ![Languages](https://skillicons.dev/icons?i=python,django,html,css,tailwind,aws,gcp,docker,supabase,sqlite,git,linux,redis)
