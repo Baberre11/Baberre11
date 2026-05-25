@@ -11,7 +11,7 @@
 [![Backend Technologies](https://skillicons.dev/icons?i=django,aws,gcp,docker,fastapi&perline=3)](https://skillicons.dev)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=mysql,bitbucket)
+![Database & Tools](https://skillicons.dev/icons?i=mysql,supabase,sqlite)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,sqlite,linux,github,markdown,netlify,vercel,vscode,githubactions,githubactions,redis,wordpress)
+![Others](https://skillicons.dev/icons?i=git,linux,github,markdown,vercel,vscode,githubactions,redis,wordpress)
